@@ -1,0 +1,43 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+/.idea/
+/.vscode/
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Generated.xcconfig
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/
+**/macos/Flutter/Flutter.xcconfig
+**/macos/Flutter/Flutter.podspec
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/Flutter.xcodeproj/
+**/webdev/
+
+# Android specific
+**/android/build/
+**/android/gradle/
+**/android/app/build/
+**/android/gradle.properties
+**/android/local.properties
+**/android/gradlew
+**/android/gradlew.bat
+**/android/gradle-wrapper.jar
+
+# iOS specific
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.xcodeproj
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.xcworkspace/
+**/ios/Podfile.lock
+**/ios/Pods/
+**/ios/Runner.xcworkspace
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/flutter_export_environment.sh
+
